@@ -1,0 +1,6 @@
+c:\users\mmx\documents\visual studio 2015\Projects\Airline_v2\Airline_v2\bin\Debug\Airline_v2.exe.config
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\Airline_v2\Airline_v2\obj\Debug\Airline_v2.csprojResolveAssemblyReference.cache
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\Airline_v2\Airline_v2\bin\Debug\Airline_v2.exe
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\Airline_v2\Airline_v2\bin\Debug\Airline_v2.pdb
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\Airline_v2\Airline_v2\obj\Debug\Airline_v2.exe
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\Airline_v2\Airline_v2\obj\Debug\Airline_v2.pdb
